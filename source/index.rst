@@ -23,7 +23,6 @@ Contents
 .. toctree::
 	
 	usage
-	mdtest
 
 
 
